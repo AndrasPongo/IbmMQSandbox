@@ -1,0 +1,7 @@
+ibm:
+  mq:
+    id: QM1
+    hostname: localhost
+    port: 1414
+    channel: DEV.APP.SVRCONN
+    queueManager: QM1

@@ -1,0 +1,10 @@
+ibm:
+  mq:
+    id: myQM
+    hostname: ibmmq1-98ab.qm.eu-de.mq.appdomain.cloud
+    port: 32069
+    channel: CLOUD.APP.SVRCONN
+    user: app
+    password:
+    queueManager: IBMMQ1
+    cypherSpec: TLS_RSA_WITH_AES_256_CBC_SHA256
